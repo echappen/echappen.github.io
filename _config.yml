@@ -50,7 +50,6 @@ author:
   # name     : "Eleni Chappen"
   avatar   : "/assets/images/eleni_chappen_twitter.jpeg"
   bio      : "  "
-  location : "Chicago, IL"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
