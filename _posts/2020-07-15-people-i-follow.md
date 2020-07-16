@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "People I Follow"
+title: "People I follow"
 date:   2020-07-15 20:13:08 -0500
 categories: [tech]
 ---
