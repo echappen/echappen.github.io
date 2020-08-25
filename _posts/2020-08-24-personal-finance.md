@@ -12,7 +12,7 @@ One book that I re-read about once a year is *The Index Card* by Helaine Olen an
 
 The book I'm reading now is *I Will Teach You To Be Rich* by Ramit Sethi. Sethi has a different style from Olen and Pollack, which is very Tech Bro, but once you cut through that, his overall advice is similar to theirs. I'm finding it's a nice supplement to *The Index Card* because Sethi gives a lot more practical advice geared towards Millennials like me, like scripts for emails and phone calls.
 
-These two books got me thinking about what my personal index card would say, which I think ended up as a blend of both books.
+These two books got me thinking about what my personal index card would say (see below), which I think ended up as a blend of both books.
 
 I didn't write this in order to give advice. (This is why I tried to avoid Dos and Don'ts, because I'm not a professional and I don't know what I'm talking about.) It was more of a personal exercise for me to uncover what my own financial intuitions are.
 
@@ -38,7 +38,7 @@ Here's what I came up with:
 
 9. Be conscious of lifestyle creep and subscription creep (easier said than done, I know)
 
-10. Take the time to figure out the things you truly care about. Optimize your savings and spending for those things.
+10. Take the time to figure out the things you truly care about. Optimize your saving and spending for those things.
 
 11. If you do this, then worrying about the price of lattes or avocado toasts isn't worth it.
 
