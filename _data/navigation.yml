@@ -1,9 +1,9 @@
 main:
   - title: About
     url: /about
-  # - title: Tech Stuff
-  #   url: /posts/tech
-  # - title: Life Stuff
-  #   url: /posts/life
+  - title: Tech Stuff
+    url: /posts/tech
+  - title: Life Stuff
+    url: /posts/life
   - title: Posts
     url: /posts
