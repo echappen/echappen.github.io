@@ -10,7 +10,7 @@ I've been reading some personal finance books lately. I enjoy thinking about per
 
 One book that I re-read about once a year is *The Index Card* by Helaine Olen and Harold Pollack. The premise is that financial advice for most people is so straightforward that it could fit on an index card (hence the title). It's based on a picture of such an index card created by Pollack that went viral a few years ago. Each point is expanded upon in the book, which is nice, but the index card itself is all you really need. I like this book because it's  short and approachable and reading it doesn't make me feel like a moron.
 
-The book I'm reading now is *I Will Teach You To Be Rich* by Ramit Sethi. Sethi has a different style from Olen and Pollack, which is very Tech Bro, but once you cut through that, his overall advice is similar to theirs. I'm finding it's a nice supplement to *the Index Card* because Sethi gives a lot more practical advice geared towards Millenials like me, like scripts for emails and phone calls.
+The book I'm reading now is *I Will Teach You To Be Rich* by Ramit Sethi. Sethi has a different style from Olen and Pollack, which is very Tech Bro, but once you cut through that, his overall advice is similar to theirs. I'm finding it's a nice supplement to *The Index Card* because Sethi gives a lot more practical advice geared towards Millennials like me, like scripts for emails and phone calls.
 
 These two books got me thinking about what my personal index card would say, which I think ended up as a blend of both books.
 
