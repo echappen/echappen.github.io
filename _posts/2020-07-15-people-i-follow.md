@@ -23,3 +23,7 @@ If you found your way here, you'll probably like these other people too (in no p
 [Josh Beckman](https://www.joshbeckman.org/){:target="_blank"}
 
 [Tiffani Ashley Bell](https://medium.com/@tiffani){:target="_blank"}
+
+[Jen Myers](https://jenmyers.net/){:target="_blank"}
+
+[Cyd Harrell](https://cydharrell.com/writing/){:target="_blank"}
