@@ -6,7 +6,7 @@ date:   2020-06-25 21:17:08 -0500
 categories: [tech]
 ---
 
-When I was starting my career as a software developer, I benefitted enormously from tactical mentors, career advisors and a tight-knit community of other bootcamp graduates. Starting out in this industry can be lonely, rudderless, and frustrating, and so I want to help people who may be experiencing these things.
+When I was starting my career as a software developer, I benefited enormously from tactical mentors, career advisors and a tight-knit community of other bootcamp graduates. Starting out in this industry can be lonely, rudderless, and frustrating, and so I want to help people who may be experiencing these things.
 
 I think it’s good to be explicit about ways in which I’m willing and not willing to give help, so I have lists for each below.
 
