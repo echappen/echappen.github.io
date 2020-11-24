@@ -16,7 +16,7 @@ In writing these lists, I was guided a lot by [Will Larson’s post on mentoring
 2. Not generalize my experiences
 3. Be explicit about when my privilege has helped me, and recognize the challenges that others without this privilege may face
 
-In order to do this, I should be open about my background. In some ways, I’m similar to other people from underrepresented groups in tech. I’m a woman. I’m a career-switcher. I do not have a Computer Science degree. I’m a bootcamp graduate. I grew up in a rural part of the country with little access to tech opportunities.
+In order to do this, I should be open about my background. In some ways, I’m similar to other people from underrepresented groups in tech. I’m a woman. I’m a career-switcher. I don't have a Computer Science degree. I’m a bootcamp graduate. I grew up in a rural part of the country with little access to tech opportunities.
 
 But I’m also quite privileged in ways that are very typical of the tech industry. I’m white, straight, cisgendered and do not have a disability. I have a degree from a well-known university. I had a comfortable middle class upbringing that allowed me to graduate from college debt-free and prioritize learning and growth over income earlier in my career.
 
