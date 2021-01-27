@@ -10,7 +10,7 @@ When I was starting my career as a software developer, I benefited enormously fr
 
 I think it’s good to be explicit about ways in which I’m willing and not willing to give help, so I have lists for each below.
 
-In writing these lists, I was guided a lot by [Will Larson’s post on mentoring from privilege](https://lethain.com/mentoring-from-privilege/){:target="_blank"}, specifically his points on how to mentor without doing more harm than good. To paraphrase his points, I will try to:
+In writing these lists, I was guided by [Will Larson’s post on mentoring from privilege](https://lethain.com/mentoring-from-privilege/){:target="_blank"}, specifically his points on how to mentor without doing more harm than good. To paraphrase, I will try to:
 
 1. Not give advice on things I don’t have direct experience with
 2. Not generalize my experiences
